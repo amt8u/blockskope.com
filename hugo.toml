@@ -1,0 +1,41 @@
+baseURL = 'https://blockskope.com'
+languageCode = 'en'
+title = 'blockskope.com'
+theme = 'hugo-cat'
+
+PygmentsCodeFences = true
+PygmentsStyle = "solarized-dark256"
+pluralizelisttitles = "false"
+paginate  = 15
+disableHugoGeneratorInject = false
+enableEmoji = true
+
+[params]
+ava = "amt8u_logo.png"
+owner ="amt8u"
+talk = "Nothing much to see here."
+blogSection = ["blog"]
+description = "goto cybercafe.dev for interesting content [amt8u](https://github.com/amt8u)"
+favicon = "/img/logo.svg"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "https://cybercafe.dev"
+weight = 2
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 4
+
+

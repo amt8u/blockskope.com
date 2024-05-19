@@ -1,0 +1,12 @@
+baseURL = 'https://blockskope.com/'
+languageCode = 'en'
+title = 'blockskope.com'
+PygmentsCodeFences = true
+PygmentsStyle = "solarized-dark256"
+pluralizelisttitles = "false"
+paginate  = 18
+disableHugoGeneratorInject = true
+theme = 'hugo-theme-red-rose'
+
+[params]
+ava = "amt8u_logo.png"

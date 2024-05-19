@@ -1,0 +1,9 @@
+[submodule "themes/hugo-theme-red-rose"]
+	path = themes/hugo-theme-red-rose
+	url = https://github.com/httpsecure/hugo-theme-red-rose
+[submodule "themes/JuiceBar"]
+	path = themes/JuiceBar
+	url = https://github.com/hotjuicew/hugo-JuiceBar.git
+[submodule "themes/hugo-cat"]
+	path = themes/hugo-cat
+	url = https://github.com/httpsecure/hugo-cat
